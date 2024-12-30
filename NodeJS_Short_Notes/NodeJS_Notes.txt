@@ -18,3 +18,7 @@ we use the exports keyword to make properties and methods available outside the 
 
 Step 1: create a NodeJS file using -> npm init
 -> we can create package.json using npm init and also create it manually
+
+
+--> MongoDB
+No-SQL Document based database strong support for aggregation pipes works on BSON format 
