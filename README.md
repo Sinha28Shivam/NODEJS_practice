@@ -1,12 +1,10 @@
 # NODEJS_practice
 
-This is a sample Node.js project using Express.js, Nodemon, Mongoose, and MongoDB.
+This is a sample NodeJS project using ExpressJS, and MongoDB.
 
 ## Technologies Used
 - Node.js (v22)
-- Express.js
-- Nodemon
-- Mongoose
+- Express (4.21.2)
 - MongoDB
 
 ## Setup Instructions
@@ -18,6 +16,7 @@ This is a sample Node.js project using Express.js, Nodemon, Mongoose, and MongoD
 2. **Install the Packages**
    ```bash
    npm install
+   or
    npm i
 3. **Run the application**
    ```bash
