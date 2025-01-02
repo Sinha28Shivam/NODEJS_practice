@@ -1,11 +1,13 @@
 # NODEJS_practice
 
+![Node.js](https://img.shields.io/badge/Node.js-v22-green) ![Express](https://img.shields.io/badge/Express-4.21.2-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-new-green)
+
 This is a sample NodeJS project using ExpressJS, and MongoDB.
 
 ## Technologies Used
-- Node.js (v22)
-- Express (4.21.2)
-- MongoDB
+- Node.js (v22) ![Node.js](https://img.shields.io/badge/Node.js-v22-green)
+- Express (4.21.2) ![Express](https://img.shields.io/badge/Express-4.21.2-blue)
+- MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-new-green)
 
 ## Setup Instructions
 
@@ -13,6 +15,7 @@ This is a sample NodeJS project using ExpressJS, and MongoDB.
    ```bash
    git clone https://github.com/Sinha28Shivam/NODEJS_practice
    cd your-repo
+
 2. **Install the Packages**
    ```bash
    npm install
