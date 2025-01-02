@@ -16,3 +16,11 @@ This is a sample Node.js project using Express.js, Nodemon, Mongoose, and MongoD
    ```bash
    git clone https://github.com/Sinha28Shivam/NODEJS_practice
    cd your-repo
+2. **Install the Packages**
+   ```bash
+   npm install
+   npm i
+3. **Run the application**
+     npm start
+
+   
