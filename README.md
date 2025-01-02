@@ -1,5 +1,4 @@
 # NODEJS_practice
-# My Node.js Project
 
 This is a sample Node.js project using Express.js, Nodemon, Mongoose, and MongoDB.
 
@@ -21,6 +20,16 @@ This is a sample Node.js project using Express.js, Nodemon, Mongoose, and MongoD
    npm install
    npm i
 3. **Run the application**
-     npm start
+   ```bash
+   npm start
+
+## Available Endpoints
+# Base Endpoit (/users)
+- GET (/) - Retrieve all the users
+- POST (/) - Create a new user with id
+- PATCH (/:id) - Update the user by Id
+- DELETE (/:id) - Delete the user by Id
+- PUT (/:id) - Update the user by Id with new data
+
 
    
