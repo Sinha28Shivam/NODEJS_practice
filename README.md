@@ -30,5 +30,5 @@ This is a sample NodeJS project using ExpressJS, and MongoDB.
 - DELETE (/:id) - Delete the user by Id
 - PUT (/:id) - Update the user by Id with new data
 
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
    
